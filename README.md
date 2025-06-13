@@ -79,7 +79,7 @@ With a mindset focused on **growth**, **collaboration**, and **impact**, I aim t
 ### 💭 Philosophy
 *"Code is poetry written in logic, and every bug is a lesson in disguise."*
 
-**⭐ From [leadwithshakib](https://github.com/lwshakib)**
+**⭐ From [lwshakib](https://github.com/lwshakib)**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=lwshakib&color=blueviolet&style=badge)
 
