@@ -61,11 +61,11 @@ With a mindset focused on **growth**, **collaboration**, and **impact**, I aim t
 
 ## 📈 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=leadwithshakib&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lwshakib&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=leadwithshakib&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lwshakib&theme=radical&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leadwithshakib&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwshakib&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 
 
@@ -79,8 +79,8 @@ With a mindset focused on **growth**, **collaboration**, and **impact**, I aim t
 ### 💭 Philosophy
 *"Code is poetry written in logic, and every bug is a lesson in disguise."*
 
-**⭐ From [leadwithshakib](https://github.com/leadwithshakib)**
+**⭐ From [leadwithshakib](https://github.com/lwshakib)**
 
-![Profile Views](https://komarev.com/ghpvc/?username=leadwithshakib&color=blueviolet&style=badge)
+![Profile Views](https://komarev.com/ghpvc/?username=lwshakib&color=blueviolet&style=badge)
 
 </div>
