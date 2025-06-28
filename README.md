@@ -1,5 +1,5 @@
 # 🙋‍♂️ Hey there,
 
-I'm a **fullstack developer** driven by curiosity and a strong commitment to mastering the fields of **Open Source**, **AI**, and **DevOps**. I actively engage in hands-on projects that combine theoretical knowledge with practical application. 
+I'm a **fullstack developer** passionate about **Open Source**, **AI**, and **DevOps**. I build practical solutions that combine theory with real-world application.
 
-With a mindset focused on **growth**, **collaboration**, and **impact**, I aim to build solutions that are not only technically sound but also meaningful and scalable. My journey is guided by a clear purpose: to learn deeply, build with intention, and contribute to a more innovative, open, and intelligent future.
+Focused on **growth** and **impact**, I create meaningful, scalable solutions while contributing to an innovative and intelligent future.
